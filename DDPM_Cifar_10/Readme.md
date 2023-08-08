@@ -11,7 +11,7 @@
 
 ## Conditional
 - Conditional Generation with Simple DDPM
-  - class conditional
+- class conditional
     <pre><code>
       python ddpm_conditional.py
     </code></pre>
