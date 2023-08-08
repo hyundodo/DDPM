@@ -10,6 +10,8 @@
     </code></pre>
 
 ## Conditional
+[Conditional DDPM]()
+
 - Conditional Generation with Simple DDPM
 - class conditional
     <pre><code>
@@ -24,4 +26,4 @@
 
 
 # Reference
-[Youtube]("https://youtu.be/TBCRlnwJtZU")
+[Youtube](https://youtu.be/TBCRlnwJtZU)
