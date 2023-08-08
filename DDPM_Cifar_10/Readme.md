@@ -1,7 +1,7 @@
 # DDPM Implementation with Cifar-10 
 
 ## Unconditional 
-[Unconditional DDPM](https://github.com/hyundodo/DDPM/blob/master/DDPM_Cifar_10/DDPM.py)
+[Unconditional DDPM](https://github.com/hyundodo/DDPM/blob/master/DDPM_Cifar_10/ddpm_unconditional.py)
 
 - Unconditional Generation with Simple DDPM
 - Train Unconditional DDPM  
