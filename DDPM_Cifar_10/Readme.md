@@ -1,4 +1,4 @@
-# DDPM Implementation with Cifar-10 dataset 
+# DDPM Implementation with Cifar-10 
 
 ## Unconditional 
 
